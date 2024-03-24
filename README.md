@@ -3,8 +3,7 @@
 <h3 align="center">we are passionate Team for working from  United Arab Emirates</h3>
 
 - 👨‍💻 Our  projects are available at [https://vape-bae.vercel.app/](https://vape-bae.vercel.app/)
- - 👨‍💻 Our  projects are available at [https://glow-skin-care.vercel.app/](https://glow-skin-care.vercel.app/)
-
+  
 - 📫 How to reach me **techlutionsoft@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
