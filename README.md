@@ -5,7 +5,7 @@
 - 👨‍💻 Our  projects are available at [https://vape-bae.vercel.app/](https://vape-bae.vercel.app/)
 -  👨‍💻 Our  projects are available at [https://poopstar-delight-109.netlify.app/](https://poopstar-delight-109.netlify.app/)
   
-- 📫 How to reach me **techlutionsoft@gmail.com**
+- 📫 How to reach us **techlutionsoft@gmail.com**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
